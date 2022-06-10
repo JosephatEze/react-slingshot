@@ -120,7 +120,7 @@ export default {
               sassOptions: {
                 includePaths: [path.resolve(__dirname, 'src')]
               },
-              sourceMap: false
+              sourceMap: true
             }
           }
         ]
